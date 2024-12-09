@@ -1,0 +1,31 @@
+1.checked exception
+  It will be compile time exception.
+  it will check at the time of writtening
+Unchecked Exception
+ it will occur during runtime.
+ it will shows error after compling while executing and it will show Arithmetic exception
+
+2.try used to enclose the code that throw the exception
+  catch is used to handle the exception
+ finally is used to finalise that function but catch is used to handle the exception
+ try block can be run without catch by using a resource with a closed block
+ex: try(Scanner sc = new Scanner()){
+    return sc.nextline;
+}
+4.polymorphism
+Same object with different behaviour
+types
+Run-time polymorphism
+Compile-time polymorphism
+
+5.Hiding the implementation details and provide necessary information to the user.
+  By using abstract class we can extend the sub classes and by using interface we implements the sub classes.
+
+7.ArrayList is uses dynamic array to store values
+  In array list manipulation is slow
+  it act as a list
+ LinkedList uses double linkedlist to store elements
+ manipulation is faster
+ it act as list and queue  
+
+
